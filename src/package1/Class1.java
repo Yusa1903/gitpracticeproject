@@ -16,6 +16,9 @@ public class Class1 {
 		}
 
 		//Today we have seen new commands on Git and GitHub
+		//it's getting easier to understand
+		int num1 =5;
+		System.out.println(num1);
 
 	}
 
