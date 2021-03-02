@@ -10,6 +10,9 @@ public class Class1 {
 		double num = 34.5;
 		System.out.println(num);
 		//Here are my changes
+		for (int i = 0; i < args.length; i++) {
+			
+		}
 	}
 
 }
