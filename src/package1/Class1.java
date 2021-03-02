@@ -9,6 +9,7 @@ public class Class1 {
 		System.out.println(numOfStudents);
 		double num = 34.5;
 		System.out.println(num);
+		//Here are my changes
 	}
 
 }
